@@ -1,0 +1,9 @@
+{
+  "name": "DHT22-simulation",
+  "version": "1.0.0",
+  "description": "Este projeto tem a intenção de representar a transmissão de dados gerados por um sensor DHT22 e a transmissão dos dados através de um micro-controlador.",
+  "main": "index.js",
+  "author": "Léo Soares",
+  "license": "MIT",
+  "private": false
+}
